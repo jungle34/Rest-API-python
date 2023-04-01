@@ -13,7 +13,7 @@ def rest(classe, modulo):
 
 if __name__ == '__main__':                
     print("\n" * 500) 
-    print("SERVER HAS BEEN STARTED - PYcharm is ON!")
+    print("SERVER HAS BEEN STARTED - PYserver is ON!")
     print("ENDPOINT: http://127.0.0.1:5000/api/<classe>/<modulo>")
     print("\n" * 2)
     print("DESENVOLVIDO POR JOÃO VICTOR ")
