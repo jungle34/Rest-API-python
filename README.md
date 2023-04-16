@@ -5,6 +5,7 @@ A very simple example of a REST API using python and connection with MySQL datab
 
 
 **Example of a API class**
+***Create a teste.py in /api directory***
 ```python    
 from base import dbexc
 
