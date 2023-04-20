@@ -2,10 +2,10 @@ import mysql.connector
 
 def dbexc(sql):
     conn = mysql.connector.connect(
-        host='localhost',
-        user='johnny',
-        password='20010506jV!',
-        database='teste'
+        host='**********',
+        user='*********',
+        password='**********',
+        database='**********'
     )
 
     cursor = conn.cursor()
