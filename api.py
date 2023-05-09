@@ -16,9 +16,7 @@ if __name__ == '__main__':
     print("SERVER HAS BEEN STARTED - PYserver is ON!")
     print("ENDPOINT: http://127.0.0.1:5000/api/<classe>/<modulo>")
     print("\n" * 2)
-    print("DESENVOLVIDO POR JOÃO VICTOR ")
-    print("\n" * 2)
-    print(";) Viver é o suícidio menos doloroso ;)")
+    print("DESENVOLVIDO POR JOÃO VICTOR ")        
     print("\n" * 10)
     app.run()    
 else:
